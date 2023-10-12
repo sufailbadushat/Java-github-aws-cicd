@@ -36,7 +36,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>welcome-cicd</finalName>
+		<finalName>java-github-aws-cicd</finalName>
 	</build>
 
 </project>
