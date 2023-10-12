@@ -5,6 +5,6 @@ import org.springframework.stereotype.Service;
 @Service
 public class WelcomeService {
     public String sendMsg(){
-        return "Welcome, How are you doing!";
+        return "Hello, Welcome to CICD pipeline!";
     }
 }
